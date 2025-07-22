@@ -7,7 +7,9 @@ Schematic (Arduino R4):
 ![schematic](./img/schematic.png)
 
 Hình ảnh sản phẩm :
+
 U: unconnected - trạng thái ko dùng mạng
+
 C: connected - trạng thái dùng mạng
 
 ![product](./img/air_quality.jpg)
