@@ -4,7 +4,7 @@ Repo này là của dự án nhập môn Điện tử Viễn thông kì học 20
 
 Schematic (Arduino R4): 
 
-![schematic](./img/schematic.jpg)
+![schematic](./img/schematic.png)
 
 Hình ảnh sản phẩm :
 U: unconnected - trạng thái ko dùng mạng
